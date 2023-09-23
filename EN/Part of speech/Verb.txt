@@ -1,0 +1,6 @@
+
+
+V.inf == เวิบรูปแรกก่อนรูป1
+be = (1) is,am,are
+have = (1) has,have
+do = (1) does

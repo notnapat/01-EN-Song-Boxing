@@ -1,0 +1,42 @@
+
+    ***Subject-Verb Agreements == ประทานคู่กับกริยาแบบไหน หรือ เติม s/es หรือไม่เติม
+1 คน, เอกพจน์ เติม -s 
+หลายคน 1+/2+, พหุพจน์ ไม่เติม   
+
+    **ประทาน 1 คน  *คิดว่าเป็นบุคคลที่ 3
+He, She, It 
+- V.+-s 
+- has 
+I loves you.
+
+    **ประทานมากกว่า 1 , 2+ คน *เดาว่าเป็นบุคคลที่ 1 และ 2 
+I, You, we 
+- V. 
+- have
+
+    **กฎพิเศษ
+    *ที่ขึ้นต้นด้วย every, any, some, no + กริยาเอกพจน์(เติม-s)
+everyone, anyone, someone, no one
+everthing, anything, something, nothing
+- is, has 
+
+    *แต่ถ้าขึ้นต้นด้วย every,any,some,no + of 
+จะเติมแบบปกติ *โดยดูหลัง Subj หลัง of 
+some of my friends are == ใช้ are เพราะมีเพื่อนหลายคน
+some of the water is == ใช้ is หรือ เติม -s  *เดานามนับไม่ได้น่าจะใช้ is 
+
+    *ขึ้นต้นด้วย Each of, One of,Both of *ไม่เกี่ยวว่าหลัง of จะเป็น Subj อะไร
+each of เติม -s *น่าจะ แต่ละ คือที่ละ 1 น่าจะเป็นเอกพจน์
+one of เติม -s *น่าจะ one คือมีอย่างเดียว เป็นเอกพจน์ 
+both of ไม่เติม 
+    *มี as well as, together with, along with 
+*3 วลีนี้หมายความว่า ด้วยกันกับ ไม่เหมือน and
+ใคร as well as ใคร == ใครด้วยกันกับใคร
+    - ดูแค่ Subj ที่อยู่หน้าสุดว่ากี่คน เติม -s ตาม subj หน้าสุด
+-แต่ and ไม่เติม -s เพราะมีมากกว่า 1+ คน 
+
+    *Either__or__ == ไม่__ก็__, Neither__nor__ == ไม่ทั้ง__และ__
+ดู Subj หลัง or,nor ว่าเป็นอะไร ให้เติมตามนั้น
+
+    *ถ้าหลัง Subj เป็นคำบุพบท 
+ให้เติมตาม subj น้าคำบุพบท
