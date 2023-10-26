@@ -1,0 +1,182 @@
+
+S, Subj == ประทาน
+V, Verb == กริยา ==>> ความรู้สึก และการกระทำ
+
+V.1 ปัจจุบัน 
+v.2 อดีต
+V.3 ต่อเนื่อง
+Will อนาคต
+
+    ***ประโยคปัจจุบัน (Present) 
+
+-ประโยคง่าย (Simple) 
+S + V.1
+
+-กำลังเกิดขึ้น, กำลังทำอะไรอยู่ (Continuous)
+S + is,am,are + V.ing
+
+-(Perfect) 
+- เหตุการที่ต่อเนื่อง, ที่ผ่านมาแล้วแต่ยังทำอยู่ 
+    - เช้น ปีนี้ฉันเขียนหนังสือ 3 เล่มแล้ว แต่สื่อว่ายังเขียนเพิ่มอยู่
+- หรือเหตูการณ์ที่เกิดแล้ว และจบไปแล้ว แต่ไม่บอกเวลาว่าจบตอนไหน ,จบแล้วแต่ไม่ระบุเวลา
+    - เช่น ฉันเคยไปญี่ปุ่นมาแล้ว
+- หรือเหตุการณ์ที่ยังไม่ได้ทำ เช่นยังไม่ได้กินข้าว
+- หรือเหตุการณ์ที่พึ่งทำเสร็จ
+- เหมือนจะระบุช่วงเวลา หรือสถานที่ ทำพูดถึง
+- หรือ ใช้กับ already,just,yet 
+- เน้นผลที่ส่งมาถึงปัจจุบัน, หรือเน้นผลลับพ์ที่พูดอยู่
+S + have/has + V.3 
+    *have/has ไม่มีความหมาย
+
+-Perfect Continuous
+- เหมือนจะไม่เจาะจง ว่าพูดถึงช่วงเวลาไหน แต่สื่อว่าช่วงหนึ่ง
+- ช่วงเวลาที่ยังไม่จบ , all day, all week 
+    - ทำงานมาทั้งวัน แต่ยังไม่หมดวัน
+- ช่วงเวลาที่ยังไม่จบ และมีแนวโน้มจะทำต่อ
+    - ฉันวิ่งมา 3ชม. แต่สื่อว่ายังจะวิ่งต่อไปอยู่
+- เน้นความต่อเนื่อง, หรือ เน้นพูดถึงความต่อเนื้อง หรือ ระยะ,หรือความยาวนาน เวลาที่ทำ
+S + have/has been + V.ing     
+    *bee(3) = be
+
+    ***ประโยคอดีต (Past)
+
+-ประโยคง่าย (Simple)
+S + V.2
+
+-กำลังทำอยู่ในอดีต (Continuous)
+S + was/were + V.ing
+    *was/were(2) = is,am,are(be)
+
+-Perfect
+S + had + V.3
+    *had(2) = have/has
+
+-Perfect Continuous
+S + had been + V.ing 
+
+    ***ประโยคอนาคต (Future)
+
+-Simple
+S + Will + V.inf 
+
+-Continuous จะกำลังทำอะไร
+S + Will + be Ving 
+
+-Perfect
+S + Will + have + V.3
+
+-Perfect Continuous
+S + Will have been V.ing 
+
+
+
+    **Simple
+S + V.1
+S + V.2
+S + will + V.inf 
+
+    **Continuous
+S + is,am,are + V.ing 
+S + was,were  + V.ing 
+S + will be   + V.ing 
+
+    **Perfect
+S + have/has + V.3
+S + had      + V.3
+S + will have + V.3 == ประมาณว่า ถ้าคุณโทรหาผมเวลานี้ ผมน่าจะกินข้าวเสร็จแล้ว
+
+    **Perfect Continuous
+S + have/has been + V.ing == บอกว่าทำสิ่งนั้นมาตั้งแต่อดีต และบอกว่าทำมานานเท่าไร
+S + had been V.ing 
+S + will have been V.ing 
+
+
+
+
+
+    ***การใช้งานจริง
+
+    **Present Simple 
+    *ปัจจุบัน
+ใช้พูดเรื่องทั่วไป เช่น กิจวัตรประจำวัน, ความจริง(fact), สิ่งที่มีตารางเวลาแน่นอน เช่น เที่ยวบิน รอบรถไฟ
+S + V.1 
+    *ต้องดูว่า V.1เติม s/es ด้วยไหม ต้องไปดูเงี่ยนไขการเติม ตามประทาน มั้งนะ
+ตัวอย่าง 
+This train to NY leaves at 6 a.m.
+I read books
+
+    *อดีต
+I doesn't + V.inf
+    *V.inf ยังไงก็ห้ามเติม s/es
+
+    **Present Continuous
+    *ปัจจุบัน
+S + is,am,are + V.ing 
+-กำลังเกิด
+ I'm cleaning my room.
+-กำลังจะเกิด today, tonight, this week, this mon, this year 
+ I'm flying to London this week.
+
+    **Present Perfect
+    *ทำต่อเนื่องมาถึงปัจจุบัน
+S + have/has + V.3 
+I have worked here for 3 years
+    *บอกประสบการณ์
+I have been to Iceland
+    *บอกว่าทำแล้ว จบแล้ว *แต่ไม่บอกเวลาว่าจบตอนไหน (just, already)
+I have eaten already.
+    *บอกว่ายังไม่ได้ทำ (yet)
+I haven't eaten any thing.
+
+    **Present Perfect Continuous
+S + have/has + been V.ing 
+    *ทำต่อเนื่องมาถึงปัจจุบัน และบอกว่าทำมานานแค่ไหน
+I have been waiting for 3 hours!
+
+
+    **Past simple (อดีต)
+S + V.2
+มีเวลาระบุด้วย
+I drank tea this morning
+
+    **Past Continuous (อดีต)
+S + was/were + V.ing 
+กำลังทำอยู่ในอดีต
+กำลังทำอยู่ในอดีต  , แทรก
+s+was/were/+v.ing  ,  s+v.2
+while I was taking a shower , someone screamed
+
+    **Past Perfect (อดีต)
+S + had + V.3
+เหตูการณ์เกิดก่อน , เกิดหลัง
+s+had+v.3  , s+v.2
+After I had taken a shower, I had breakfast.
+
+    **Past Perfect Continuous
+S + had been + V.ing 
+เหตุการที่ต่อเนื่อง, เกิดหลัง
+s+had been ving, s+v.2
+I had been waiting for Jane for 4 hours, when she arrived
+
+
+
+    **Future Simple (อนาคต) ทั่วๆไป
+S + will + V.inf
+In 2050, people will not travel any more
+ใช้สัญญา (promise)
+I will do it.
+ใช้เสนอ (offer) 
+I will help you.
+I'll pick it up.
+
+    **Future Continuous (อนาคต) กำลังจะทำอะไรในอนาคต, ในอนาคตคงจะกำลังทำแบบนี้อยู่
+S + will be + V.ing
+At 10 a.m. tomorrow , I will be driving to Chiang Mai.
+
+    **Future Perfect (อนาคต) คาดว่าในอนคตตอนนั้น น่าจะทำอะไรเสร็จแล้ว, ในอนาคตตอนนั้น คิดว่าคงทำอันนั้นเสร็จแล้ว
+S + will have + V.3
+By 11 a.m. tomorrow , I will have finished teaching.
+
+    **Future Perfect Continuous (อนาคต *ใช้งานน้อยมาก หรือแทบไม่ค่อยใช้) คาดว่าในอนคตตอนนั้น น่าจะทำอะไรอยู่เป็นเวลานานเท่าไหร่แล้ว, น่าจะทำสิ่งนี้อยู่เป็นเวลานานเท่านี้แล้วนะ
+S + will have been V.ing
+At 6 p.m. tomorrow, I will have been cooking for 5 hours.

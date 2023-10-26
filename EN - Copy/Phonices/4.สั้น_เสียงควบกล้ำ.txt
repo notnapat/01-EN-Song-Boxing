@@ -1,0 +1,41 @@
+        ***เสียงควบกล้ำ
+
+1) "พยางค์" 'นับตามเสียงสระ' คำนี้มีสระกี่ตัว ก็จะมีจำนวนพยางค์เท่านั้น 
+    - คำควบกล้ำฟังดูคล้าย 2 พยางค์ แต่มีแค่ "1" พยาง
+
+2) เสียงพยัญชนะควบกล้ำกลุ่มแรก
+("bl-, br-") ==>> bl- (black, block, blink), br- (brick, bread, Bryan)
+ ("cl-, cr-") ==>> cl- (clan, clay, clean), cr- (cry, crow, crazy)
+("dr-, dw-") ==>> dr- (drink, drop, drive), dw- (dwell, dwarf, dwindle)
+ ("fl-, fr-") ==>> fl- (fly, flow, fluent), fr- (free, frame, friend)
+("gl-, gr-") ==>> fl- (glow, glue, glacier), gr- (grow, grey, grief)
+ ("pl-, pr-") ==>> pl- (play, please, plan), pr- (prey, predator, prize)
+("tr-, tw-") ==>> tr- (tree, trick, trade), tw- (twin, twilight, twenty)
+ ("shr-") ==>> (shrink, shred, shrine)
+("thr-") ==>> (through, thorough, three)
+ ("qu-")  ==>> *มันคือเสียง kw-  (queen, quest, quarter) 
+
+
+3) กลุ่มที่ 2 คือ "s blend" ให้ลากเสียง s ยาว ๆ เช่น ski ก็ให้อ่าน ssski / slow ก็ให้อ่าน ssslow / stop ก็ให้อ่าน ssstop ไรงี้ พยายามฝึกลากเสียง s ยาว ๆ เข้าไว้
+sk- , sc- (ski, sky, scare) 
+sl- (slow, slide, slap)
+sm- (small, smoke, smell)
+sn- (snail, snow, snitch)
+sp- (spy, spear, spook)
+st- (stop, stand, step)
+sw- (swim, swallow, swear)
+sph- *มันคือเสียง sf- (sphere, Sphinx) 
+
+4) เสียง (phoneme) บางตัวสะกดด้วยสองตัวอักษร (digraph) แต่มันไม่ใช่ cluster หรือ blend นะ ให้ออกเป็นเสียงเดียวพอ 
+ตัวอย่างเช่น sh- นี่คือเสียง ช- ไม่ใช่ สห- (คงไม่มีใครเข้าใจผิดแบบนี้หรอก 555 แค่ยกตัวอย่างเฉย ๆ) 
+และเสียงอื่น ๆ เช่น -ck, th-, ch-, wr-, -ng, gh-, sc-, wh- เหล่านี้ก็ไม่ต้องไปควบกล้ำมันนะ 
+ตัวอย่างคำศัพท์เช่น back (แบค), think (ธิง), church (เฉิทช), wrong (รอง), ghost (โกสท), science (ซาย-เอินส) และ who (ฮู)
+
+5) สุดท้าย cluster ท้ายคำก็เป็นสิ่งที่เราควรฝึกไว้ตั้งแต่เนิ่น ๆ เช่นกัน 
+-st (must, fast, *missed) *-ed เมื่อต่อท้าย /s/ จะเป็นเสียง /t/
+-sk, -sc (desk, disc, ask)
+-mp (jump, pump, dump)
+-nd (sand, mend, blend)
+-nt (can't, tent, hint)
+-nce (dance, chance, mince)
+สำหรับเสียงลงท้ายนี้จริง ๆ มีอีกเยอะเลย แถมยังมีประเด็นของเสียง -ed และการเติม -s เข้ามาเกี่ยวด้วย ไว้เราจะมาลงรายละเอียดกันในตอนต่อ ๆ ไปนะ

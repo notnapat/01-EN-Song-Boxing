@@ -1,0 +1,45 @@
+
+        *** กฎการไม่ออกเสียง เบื้องต้นจำคร้าวๆ ไม่ใช่กฎที่แน่นอนเสมอไป
+
+A ไม่ออกเสียง
+    - เวลาทำ Adj. ที่ลงท้ายด้วย cal ให้เป็น Adv. โดยการเติม ly เข้าไปเป็น -cally จะออกเสียงรวมเป็น /คลี่/ ไปเลย เช่น logically, musically, romantically
+
+B ไม่ออกเสียง
+    - ถ้า b อยู่หลัง m เมื่อเป็นตัวสะกด จะไม่ออกเสียง b เช่น limb, dumb, bomb, tomb, climb
+    - ถ้า b อยู่หน้า t มักไม่ออกเสียง b เช่น debt, doubt, subtle และรวมไปถึงคำที่สร้างจากรากศัพท์เหล่านี้อย่าง debtor, doubtful, subtleness
+
+D ไม่ออกเสียง
+     - d ไม่ออกเสียงในคำต่อไปนี้ handkerchief, wednesday, sandwich, handsome
+     - d ไม่ออกเสียงเวลาเป็นคำควบ dg เช่น pledge, dodge, grudge, hedge
+
+G ไม่ออกเสียง
+     - g ไม่ออกเสียงถ้ามันมี n ตามหลัง เช่น champagne, foreign, sign, feign ยกเว้น magnet, igneous, cognitive, signature
+
+H ไม่ออกเสียง
+     - h มักไม่ออกเสียงเมื่อมันตามหลัง c, g หรือ r เช่น choir, chorus, ghastly, ghoul, rhythm
+
+K ไม่ออกเสียง
+     - k ไม่ออกเสียงถ้ามันมี n ตามหลัง เช่น knife, knee, know, knock
+
+N ไม่ออกเสียง
+     - ถ้า n อยู่หลัง m เมื่อเป็นตัวสะกด จะไม่ออกเสียง n เช่น autumn, hymn, column, solemn
+
+P ไม่ออกเสียง
+     - p ไม่ออกเสียงเมื่อมันเป็นพยัญชนะต้นควบกับ s, t หรือ n เช่น psychiatrist, pneumonia, Pterodactyl
+
+S ไม่ออกเสียง
+     - s มักไม่ออกเสียงถ้ามันมี l ตามหลังและอยู่ตรงกลางคำ เช่น island, isle, aisle, islet
+
+T ไม่ออกเสียง
+     - t ไม่ออกเสียงในคำต่อไปนี้ castle, Christmas, fasten, listen, often, whistle, thistle, bustle, hasten, soften, rapport, gourmet, ballet
+
+U ไม่ออกเสียง
+     - u ไม่ออกเสียงเมื่อมันตามหลัง g แต่อยู่หน้าสระตัวอื่น เช่น guess, guidance, guitar
+
+W ไม่ออกเสียง
+     - w ที่เป็นพยัญชนะต้นจะไม่ออกเสียงถ้ามันมี r ตามหลัง เช่น wrap, wring, wreck, wrestle
+     - w ไม่ออกเสียงในคำต่อไปนี้ who, whose, whom, whole, whoever, answer, sword, two
+
+     เช่น wh ในบางคำเราไม่ออกเสียง w เช่น who, whom แต่ในบางคำเรากลับไม่ออกเสียง h เช่น when, why 
+     หรืออย่างตัว L บางคนตั้งข้อสังเกตเอาไว้ว่าเราจะไม่ออกเสียงเมื่อมันตามหลังด้วยสระ a, o หรือ u เช่น calm, half, talk, walk, would
+     แต่อันที่จริงก็มีอีกหลายคำที่เราออกเสียง l เช่น bulk, sulk, hold, sold, fold, mould 

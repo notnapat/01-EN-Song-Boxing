@@ -1,0 +1,25 @@
+
+Noun == คน, สัตว์, สิ่งของ
+-Nouns
+
+    -นามธรรม, สัมผัสไม่ได้ (Abstract N.)
+
+    -รูปธรรม, สัมผัสได้ (Concrete N.)
+
+        -นามทั่วไป, เรียกรวมๆ (Common N.)
+        *day, city, country, girl
+
+            -นามนับได้ (Countable N.)
+            *egg, table, orange
+
+                -นามเอกพจน์ (Singular N.)
+                *a,an = a book, an egg 
+
+                -นามพหูพจน์ (Plural N.)
+                *two, girls, four, cats
+
+            -นามนับไม่ได้ (Uncountable N.)
+            *milk, rice, water 
+
+        -นามโดยเฉพาะ, ระบุเจาะจง (Proper N.)
+        *Monday, Bangkok, Japan, Jnnny

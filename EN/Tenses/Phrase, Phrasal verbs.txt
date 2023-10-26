@@ -1,0 +1,162 @@
+
+        ***Phrase == วลี
+    ** ส่วนมากมัก ความหมายเปลี่ยน ไม่ตรงตัว
+    **กลุ่มคำ, การรวมคำ 2คำขึ้นไป มีความหมายแต่ไม่ครบโครงสร้าง
+    *น้อยกว่า 2คำไม่ใช่วลี *ไม่แน่ใจ อาจจะมี 1 คำที่สื่อความหมายได้ ก็น่าจะกลายเป็นวลี
+    **ทำหน้าที่เหมือนเดิม แค่ยาวขึ้นกว่าเดิม และความหมายจะละเอียดขึ้น หรือ เปลี่ยนไปเลย
+*นามวลี (noun phrase)
+  - ประกอบด้วยคำนามและส่วนขยาย
+  - หน้าที่หรือใช้แบบ N.  
+*กริยาวลี (verb phrase)
+  - หน้าที่แบบ V.
+  - ประกอบด้วย Main Verb (กริยาแท้) และ Auxiliary Verb (กริยาช่วย) 
+  - ใน Verb Phrase หนึ่ง อาจจะมีกริยาช่วยมากกว่า 1 คำ
+*คุณศัพท์วลี (adj. phrase)
+  - ทำหน้าที่ขยาย Noun
+  - หน้าที่แบบ adj.
+*บุพบทวลี (prepo. phrase)
+  - คำบุพบท + ส่วนเสริม
+  - ทำหน้าที่เป็น Adjective หรือ Adverb ในประโยค
+*กริยาวีเศษณ์วลี (adv. phrase)
+  - หน้าที่แบบ adv., 
+  - ขยาย V., Adv., Adj., หรือ ขยายทั้งประโยค หรือ ขยาย Phrase ต่างๆได้ทั้งหมด
+*infinitive Phrase ทำหน้าที่ N., Adj., Adv.
+  - to + V.1/V.infi + กรรม หรือส่วนขยาย
+*Gerund Phrase ใช้เป็นคำนาม(V.ing ที่เปลี่ยนเป็น N.) 
+  - V.ing + ส่วนขยาย
+  - ทำหน้าที่เหมือน Noun phtase  
+*Participial phrase ใช้่เป็น Adj., Adv.  เห็นบอกว่าใหญ่ น่าจะเยอะมั้งนะ
+  - V.ing/V.3 + ส่วนขยาย
+  - ทำหน้าที่เป็น adjective,Adv มี 2 หน้าที่ 
+      1. เป็น V.ing == ทำเอง, ประธานเป็นคนกระทำ
+      2. เป็น V.3 == ถูกกระทำ, ประธานถูกกระทำ
+*Appositive Phrase น่าจะ เป็น กลุ่มคำนาน ที่ทำหน้าที่เป็น N.,Adv.,Adj.
+  - กลุ่มคำที่อาจเป็น มี นามหลายตัวในประโยค แล้วมี " , " คั้นแต่ละกลุ่มคำ  
+  - น่าจะเป็นการเป็นความหมาย "," ระหว่าง นาม 2 ตัว ให้ความหมายเป็น "=", หรือ คือ
+  - เช่น S, N, V O == ให้เปลี่ยน "," ระหว่าง S, N >> S = N, V O 
+      - N, S V O >> N == S V O  
+      - S V O, N == S V O = N 
+
+        *** verb phrase ที่ใช้บ่อย
+ตัวอย่าง Phrasal Verbs (Two word verb)
+account for == อธิบาย
+ask after == ถามถึง
+ask for == ถามหาคนเพื่อทำ..
+
+back away == ถอยหลัง
+back out == ถอนตัว
+back up == สนับสนุน
+bear out == พิสูจน์ว่าเป็นจริง
+blow out == เป่า
+blow up == พัง/เป่า
+boil over == เดือดจนล้น
+break down == พัง, เสื่อมโทรม
+break in/into == บุกเข้าไป
+break off == หัก
+break up == แตกเป็นเสี่ยง ๆ
+bring up == เลี้ยงดู
+burn down == ไหม้จนมอด
+
+call at (+place/person) == ไปเยี่ยม
+call for == เรียกร้อง
+call off == ยกเลิก
+call out == เรียกออกมา
+call up == โทร
+care about == สนใจ, ใส่ใจ
+care for == สนใจ
+carry on == ทำต่อไป
+carry out == ดำเนินการ
+catch up with == ตามทัน
+clean out == ทำความสะอาด
+clean up == เช็ดจนเกลี้ยง
+clear away == จัดให้เรียบร้อย
+clear out == ย้ายของออก
+close in == ปกคลุม
+close up == ขยับเข้ามาใกล้
+come across == เจอโดยบังเอิญ
+come along == มาเป็นเพื่อน
+cut down == ตัด, โค่น
+cut off == ถูกตัดสาย (โทรศัพท์)
+cut up == หั่น/ตัดเป็นชิ้น ๆ
+
+die away == เงียบจางหายไป
+die down == หมดหายไป, จบไป
+die out == สูญพันธ์
+do away with == กำจัด
+do up == สร้างขึ้นมา
+draw back == ร่าง
+drop in == แวะ
+
+hand down == ถ่ายทอด
+hand in == ยื่น
+hand out == แจก
+hand over == มอบให้/ส่งมอบ
+hang on to == ใช้
+hold on == รอสักครู่
+
+keep off == เดินย่ำ
+keep on == ทำต่อไป
+keep out == กัน
+keep up == รักษา/ดูแล
+
+lay out == วางแบบแปลน
+leave out == ปล่อย
+let down == ปล่อย (ผม)
+let in == ปล่อยให้เข้าไป
+live up to == ทำตาม
+look after == ดูแล
+look ahead == มองไปข้างหน้า
+look for == มองหา
+look forward to == ตั้งตารอคอย
+look into == ดูอย่างละเอียด
+look on == เชื่อว่า
+look out/watch out == ระวัง
+look over == อ่านแบบคร่าว ๆ
+look/see through == มองทะลุ
+look up == ค้นหา
+look up to == นับถือ (ดูเป็นตัวอย่าง)
+look down on == ดูถูก
+
+make up (one’s mind) == ตัดสินใจ
+make up (a story) == สร้างเรื่อง
+make up (a class) == สอนชดเชย
+make up == แต่งหน้า
+move on == ดำเนินต่อไป
+
+pay back == คืน
+pick out == เลือก
+point out == ชี้ให้เห็น
+pull down == ดึงลง, ทำลาย
+put away == เก็บอย่างเรียบร้อย
+put down == จด
+put off == เลื่อน
+put on == สวม
+put up with == อดทน/ทนต่อ
+
+round up == รวบ
+run down == หมด
+run into == บังเอิญเจอ
+run out of == หมด
+
+see…off == ไปส่ง (ใคร)
+set off == ออก
+set up == สร้าง
+settle down == ปรับตัว
+shut down == ปิด
+stand for == ยืนยัน
+stand up for == ปกป้อง
+stand out == โดดเด่น
+step up == เพิ่ม
+
+take after == เหมือนกับ
+take back == เอาคืน
+take off == ถอดออก /เครื่องออก
+think over == คิดทบทวน
+turn down == ปฏิเสธ
+turn out == เปลี่ยนไป
+wind up == สรุป
+wipe out == กำจัด
+work out == ออกกำลังกาย
+
+      *** Prepo. phrase ใช้บ่อย 
+out of == "จากทั้งหมด" หรือ "รวมทั้งหมด" 

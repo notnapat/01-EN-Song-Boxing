@@ -1,0 +1,43 @@
+
+            ****Personal Pronouns(สรรพนามแทนคน)
+        ***ประธาน(Subj.ProN.)
+I, You, We, They, He, She, It
+
+    **พหูพจน์ (Plural) 
+*I, You, We, They, Cats *Iเป็นเอก Youเป็นได้ทั้ง2 แต่2ตัวนี้ ต้องใช้ V.พหูพจน์ 
+- I >> am, was
+- You >> are/were, have/had, do/did, don't + V.1ไม่เติมs
+- We, Thay, Cats >> น่าจะเหมือน You 
+
+    **เอกพจน์ (Singular)+ V.-s
+*He, She, It, Cat 
+- He >> is/was, does/did, has/had 
+- She, It, Cat >> น่าจะเหมือน He  
+
+        ***กรรม (Object.ProN.)
+*me, you, us, them, him, her, it 
+
+
+    **It
+ใช้แทนสัตว์, สิ่งของ
+ใช้แทนคนได้แค่ เด็กทารกที่ไม่รู้เพศ 
+ใช้พูดถึง วัน, เวลา, ระยะทาง, สภาพอากาศ, อุณหภูมิ *น่าจะเป็นพวก N.นามธรรม สัมผัสไม่ได้
+
+    **There is, There are == มี
+    ** น่าจะ There(Subj) + is,are (V.)
+*There is 
+- ใช้กับคำนามเอกพจน์ 
+- และนามนับไม่ได้ 
+
+*There are 
+- ใช้กับคำนามพหูพจน์
+
+        *** I, I am, I am not 
+I + V.inf == น่าจะแปลตรงตัว
+I am + N. == ฉันเป็น...
+I am + V.3 == ฉันโดยกระทำอะไร.., ฉันโดน...
+I am + V.ing == ฉันกำลัง....
+I am + Adj. == ฉันรู้สึก..., ฉันมีลักษณะ...
+I am not + N. == ฉันไม่ได้เป็น...
+I am not + V.ing == ฉันไม่ได้กำลังทำ...
+I am not + Adj. == ฉันไม่ได้รู้สึก..., ฉันไม่ได้มีลักษณะ...
