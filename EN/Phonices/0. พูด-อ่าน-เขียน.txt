@@ -189,15 +189,15 @@ ye = ไอ
     **เรียงตามกลุ่มเสียงที่เหมือน หรือ ค้ายกัน
 
 -อะ = a, o, oo, ou, u
--อา = a, al, ar, au, ear
+-อา = a, al, ar, au, ear, uar 
 -อิ = a, e, ee, i, u, ui, y      
 -อี = e, ea, eo, ey, i, y    
 -อึ
 -อื
 -อุ = oo, u, ui   
--อู = ew, o, oe, oo, ou, u, ui     
--เอะ = e
--เอ = a, ai, ay, a-e, e, ea, ei, ey, ie(บางคำ)
+-อู = ew, o, oe, oo, ou, u, ue, ui     
+-เอะ = e, ue 
+-เอ = a, ai, ay, a-e, e, ea, ei, ey, ue, ie(บางคำ) 
 -แอะ = a
 -แอ = air, ar, ear, ere 
 -เอียะ
@@ -210,22 +210,27 @@ ye = ไอ
 -โอ = ew, o, oa, oe, ow, o-e  
 -เอาะ = o 
 -ออ = a, al, ar, au, aw, o, oa, oar, oor, or, ore
--เออะ = a, re 
--เออ = a, ear, er, re, ir, or, ur, ure     
+-เออะ = a, re, o  
+-เออ = a, ear, er, re, ir, o, or, ur, ure     
 -อำ
--ใอ/ไอ = ai, i, ie, i-e, uy, y, ye  
+-ใอ/ไอ = ai, i, ie, i-e, ui, uy, y, ye  
 -เอา = ao, au, ou, ow
 -ฤ
 -ฤๅ
 -ฦ
 -ฦๅ 
 
+-โอว = o, ow 
 -เอม = ea 
 -อิว = eau, ew, iew, u, ue   
 -อาย = ie, uy  
 -เอียน = ion 
 -อัน = ion, o-e  
 -ออย = oi, oy 
+-ออเยิล, ออยเยิล = oil 
 -อาว = ow 
 *-ยู = u 
 -เอิล = le ต้อง 2 คำขึ้น น่าจะเป้นสระนี้
+-เยอร์ = ure 
+-เชอะ = ture 
+-เชอร์ = ture 
